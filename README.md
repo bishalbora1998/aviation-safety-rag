@@ -197,7 +197,7 @@ python notebooks/aviation_rag_pipeline.py
 
 ---
 
-## 🔗 Data Source
+## Data Source
 
 NASA Aviation Safety Reporting System (ASRS):
 https://asrs.arc.nasa.gov/search/database.html
